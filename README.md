@@ -1,7 +1,7 @@
 # File Format Identifier
 
 ## Overview
-This simple C++ program allows users to identify the format of an image file based on its header information. The supported formats include JPEG, RAW (Fuji RAF / Olympus ORF / Sony ARW / Nikon NEF), TIFF, PNG, GIF, and BM.
+This simple C++ program allows users to identify the format of an image file based on its header information. The supported formats include JPEG, RAW (Fuji RAF / Olympus ORF / Sony ARW / Nikon NEF), TIFF, PNG, GIF, and BMP.
 
 ## How to Use
 1. Run the program.
